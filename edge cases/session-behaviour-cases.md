@@ -1,4 +1,4 @@
-## Session Behaviour Cases
+## Session Behaviour Edge Cases
 
 | ID | Edge Case | Test Data | Expected Results |
 
