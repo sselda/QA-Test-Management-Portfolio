@@ -2,9 +2,9 @@
 
 | ID | Edge Cases | Test Data | Expected Result |
 
-| EC-01 | Email with leading spaces | “  user@test.com“ | Spaces trimmed or validation error |
+| EC-01 | Email with leading spaces | “     user@test.com“ | Spaces trimmed or validation error |
 
-| EC-O2 | Email with trailing spaces | “user@test.com  “ | Login should still work or show validation |
+| EC-O2 | Email with trailing spaces | “user@test.com     “ | Login should still work or show validation |
 
 | EC-03 | Email with uppercase characters | USER@TEST.COM | System should treat email as case-intensive | 
 
