@@ -1,0 +1,5 @@
+"ID","Title","Attachments","Created By","Created On","Estimate","Expected Result","Forecast","Is Automated","Preconditions","Priority","References","Section","Section Depth","Section Description","Steps","Steps (Step)","Suite","Suite ID","Type","is_converted"
+"C47","Verify user can login with valid credentials","","Selda Bozkurt","3/11/2026 3:07 PM","","","","No","","Medium","","Login","0","","","1. <p>Navigate to login page.</p>
+2. <p>Enter valid email.</p>
+3. <p>Enter valid password.</p>
+4. <p>Click login button.</p>","Authentication","S6","Functional","1"
