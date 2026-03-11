@@ -1,0 +1,8 @@
+"ID","Title","Attachments","Estimate","Expected Result","Forecast","Is Automated","Preconditions","Priority","References","Section","Section Depth","Section Description","Steps","Steps (Expected Result)","Steps (Step)","Suite","Suite ID","Type","is_converted"
+"C47","Verify user can login with valid credentials","","","","","No","","Medium","","Login","0","","","1. <p>User succesfully login page.</p>
+2. <p>Email is valid.</p>
+3. <p>Password is valid.</p>
+4. <p>User succesfully logs into the account dashboard.</p>","1. <p>Navigate to login page.</p>
+2. <p>Enter valid email.</p>
+3. <p>Enter valid password.</p>
+4. <p>Click login button.</p>","Authentication","S6","Functional","1"
