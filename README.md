@@ -1,5 +1,5 @@
 # QA-Test-Management-Portfolio
-QA test management portfolio including TestRail test cases, edge cases, test plan, and bug reports
+QA test management portfolio including TestRail test cases, edge cases, test plan, bug reports, test run reports, requirements traceability matrix, test coverage report and Testrail case report
 
 This repository demonstrates my manuel QA testing skills including:
 
