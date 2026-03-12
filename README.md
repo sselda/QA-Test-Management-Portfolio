@@ -3,13 +3,18 @@ QA test management portfolio including TestRail test cases, edge cases, test pla
 
 This repository demonstrates my manuel QA testing skills including:
 
-- Test planning
-- Test strategy creation
-- Test scenario design
-- Test case writing
-- Edge case analysis
-- Bug reporting
-- Test management using Testrail
+## Test Artifacts Included
+
+- Test Plan
+- Test Strategy
+- Test Scenarios
+- Test Cases
+- Edge Cases
+- Bug Reports
+- Test Run Report
+- Requirements Traceability Matrix
+- Test Coverage Report
+- TestRail Test Case Export
 
 ## Application Under Test
 
