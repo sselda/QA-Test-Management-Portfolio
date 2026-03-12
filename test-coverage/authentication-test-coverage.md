@@ -11,10 +11,15 @@ Testing of login functionality including validation, error handling, and securit
 | Test Area | Covered |
 
 | Valid login | Yes |
+
 | Invalid password | Yes |
+
 | Email validation | Yes |
+
 | Empty field validation | Yes |
+
 | Input boundary cases | Yes |
+
 | Security scenarios | Yes |
 
 ## Total Test Cases
